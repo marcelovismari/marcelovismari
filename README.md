@@ -1,11 +1,11 @@
 # Marcelo R. Vismari
 **ANALISTA DE SISTEMAS SR**
 
-![Static Badge](https://img.shields.io/badge/-marcelo.vismari@hotmail.com-blue?style=flat&logo=microsoft&logoColor=white&link=mailto%3Amarcelo.vismari%40hotmail.com)
-![Static Badge](https://img.shields.io/badge/-marcelo.vismari@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto%3Amarcelo.vismari%40gmail.com)
-![Static Badge](https://img.shields.io/badge/-marcelovismari-000?style=flat&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fmarcelovismari)
-![Static Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmarcelo-vismari-0b560b32%2F)
-![Static Badge](https://img.shields.io/badge/-https://consolelog.com.br-gray?style=flat&logoColor=white&link=https%3A%2F%2Fconsolelog.com.br)
+[![Static Badge](https://img.shields.io/badge/-marcelo.vismari@hotmail.com-blue?style=flat&logo=microsoft&logoColor=white)](mailto:marcelo.vismari%40hotmail.com)
+[![Static Badge](https://img.shields.io/badge/-marcelo.vismari@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:Amarcelo.vismari%40gmail.com)
+[![Static Badge](https://img.shields.io/badge/-marcelovismari-000?style=flat&logo=github&logoColor=white)](https://github.com/marcelovismari)
+[![Static Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-vismari-0b560b32/)
+[![Static Badge](https://img.shields.io/badge/-https://consolelog.com.br-333?style=flat&logoColor=white)](https://consolelog.com.br)
 
 Profissional de desenvolvimento web com mais de 15 anos de experiência, atualmente focado em tecnologias como Microsoft Azure, TypeScript, JavaScript e nos frameworks Angular, NestJS e ExpressJS. Além disso, contribuo para a revisão de códigos Java em APIs construídas com Spring Boot durante análises de problemas.
 
